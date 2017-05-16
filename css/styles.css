@@ -1,0 +1,20 @@
+body {
+    background: lightgreen;
+}
+
+h1 {
+    color: orange;
+   position: absolute;
+    align-items: center;
+    top: 100px;
+    left: 400px;
+}
+
+h2 {
+    color: azure;
+    position: absolute;
+    align-items: center;   
+    top: 200px;
+    left: 530px;
+}
+/*# sourceMappingURL=styles.css.map */
